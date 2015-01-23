@@ -1,5 +1,3 @@
-# This gem is obsolete. See [Hilbert](https://github.com/gogotanaka/Hilbert)
-
 ### Since you report a bug, I will fix it within 24 hours.
 
 [![Build Status](https://travis-ci.org/gogotanaka/dydx.svg?branch=master)](https://travis-ci.org/gogotanaka/dydx)
